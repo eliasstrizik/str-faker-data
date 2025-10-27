@@ -1,0 +1,3 @@
+Faker==37.12.0
+pandas==2.3.3
+streamlit==1.49.1
